@@ -4,7 +4,7 @@ This is my home page! My name is Sebastian Flores and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/sebastianflores144.
+My GitHub page is [http://github.com/sebastianflores144].
 
 ### CPSC 120
 
