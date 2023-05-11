@@ -8,7 +8,7 @@ My GitHub page is http://github.com/sebastianflores144.
 
 ### CPSC 120
 
-* [Lab 5](https://github.com/cpsc-spring-2023/cpsc-120-lab-05-sebastian-courtney)
+* [Lab 5](https://github.com/cpsc-spring-2023/cpsc-120-lab-05-sebastian-courtney/tree/main/part-1)
 
     Lab 5, Part 1 was a favorite due to its simplicity and enjoyable nature. I liked using vectors to take command line arguments. It was also intriguing to discover the non-intuitive nature of indexing.
 
